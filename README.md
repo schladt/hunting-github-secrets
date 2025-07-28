@@ -4,4 +4,3 @@ This repository is an interactive Git tutorial puzzle. A secret flag is hidden i
 
 **Warning:** All visible flags are redacted as `FLAG{****}`. Your task is to use Git to find the one real flag buried in a past commit on a non-`main` branch.
 
-See next steps in the `README.md` to learn how to search.
